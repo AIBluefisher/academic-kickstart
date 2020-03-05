@@ -18,27 +18,33 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  title = "Research Intern"
+  company = "TuSimple"
+  company_url = "https://www.tusimple.com/"
+  location = "Beijing"
+  date_start = "2019-04-20"
+  date_end = "2019-07-01"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * I researched in the globally optimal guaranteed rotation averaging optimization approaches. I was supervised by Dr. Ji Zhao.
+  * I improved global rotation averaging approach by x100 times in efficiency, without precision loss compared with state-of-the-art in large scale datasets.
+  * I make the global rotation averaging optimization approach practicable in SLAM backend.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Algorithm Intern"
+  company = "Megvii"
+  company_url = "https://www.megvii.com"
+  location = "Beijing"
+  date_start = "2018-09-05"
+  date_end = "2018-12-31"
+  description = """
+  Responsibilities include:
+
+  * I implemented a mobile-based real-time 3D reconstruction framework utilizing the raw images and depth images as input.
+  * I applied depth fusion-based approach for front-end reconstruction, multi-view based approach
+for backend texture mapping.
+  """
 
 +++
