@@ -406,8 +406,7 @@ $$
 我们很容易发现:
 
 $$
-\frac{\partial \hat{u}_{ij}}{\partial c_k} = 0, \forall j \neq k, 
-\frac{\partial \hat{u}_{ij}}{\partial p_k} = 0, \forall i \neq k
+\frac{\partial \hat{u}_{ij}}{\partial c_k} = 0, \forall j \neq k, \frac{\partial \hat{u}_{ij}}{\partial p_k} = 0, \forall i \neq k
 $$
 
 

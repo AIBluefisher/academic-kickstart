@@ -77,4 +77,5 @@ user_groups:
 - Visitors
 ---
 
-Yu Chen is currently a research master in 3D reconstruction group of EECS in Peking University, he is advised by Prof. Heng Wang and Prof. Yisong Chen and co-supervised by Shuhan Shen. His research interests are mainly on 3D reconstruction, which include Structure-from-Motion (SfM), distributed optimization, Simultaneous Localization and Mapping (SLAM), semantic reconstruction. He used to be a web developer when he studied in BUAA. His dream is to build the world by computer vision techniques. His career in the future is classified...
+Yu Chen is a SLAM algorithm engineer in Segway Robotics.
+He obtained his M.S. degree in Electronic Engineering and Computer Science School, Peking University, where he joined the 3D reconstruction group of EECS, he is advised by Prof. Yisong Chen and co-supervised by Shuhan Shen. His research interests mainly include 3D reconstruction, which include Structure-from-Motion (SfM), distributed optimization, Simultaneous Localization and Mapping (SLAM), semantic reconstruction. He used to be a web developer when he studied in BUAA. His dream is to build the world by computer vision techniques. His career in the future is classified...
